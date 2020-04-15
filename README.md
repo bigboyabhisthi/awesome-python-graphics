@@ -14,7 +14,7 @@ Well, Python🐍 has your back for this with some neat spells. (However, later o
 
 # Not Convinced? See a Demo:
 
-![Snapshot]((https://github.com/smaranjitghose/smileplease/blob/master/assets/snapshots/dragon_curve.png)
+![Snapshot](https://github.com/smaranjitghose/awesome-python-graphics/blob/master/assets/snapshots/dragon_curve.png)
 
 
 # Want it for yourself? Here you go
@@ -28,7 +28,7 @@ Well, Python🐍 has your back for this with some neat spells. (However, later o
     - and type ```cd awesome-python-graphics```
 - Now make sure you have all the dependencies🧱 
   - type in the terminal
-      ```pip install -r requirements.txt``
+      ```pip install -r requirements.txt```
 - Run any of the scripts for the available shapes like ```dragon_cuve.py```
     - Open the Terminal 👩‍💻
     - and type ```python dragon_curve.py```
