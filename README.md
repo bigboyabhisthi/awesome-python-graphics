@@ -44,6 +44,7 @@ Well, Python🐍 has your back for this with some neat spells. (However, later o
 - Addition of more fractals and curves
 - Using CLI to choose colors
 - Having a central script to choose the shapes
+- Add Gifs for Presentation
 
 
 ## Always grateful 🙏 to[Tim Ruscica](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg/featured) for his walkthroughs on various Python libraries and handy tips!
