@@ -15,7 +15,7 @@ Well, Python🐍 has your back for this with some neat spells. (However, later o
 # Not Convinced? See a Demo:
 
 |Fractal/Curve|Result|
-|-------------|-------|
+|--------|-------|
 |Dragon Curve|![Snapshot](https://github.com/smaranjitghose/awesome-python-graphics/blob/master/assets/snapshots/dragon_curve.png)|
 |Tree Fractal|![Snapshot](https://github.com/smaranjitghose/awesome-python-graphics/blob/master/assets/snapshots/tree_fractal.png)|
 
