@@ -9,18 +9,18 @@ s.title("Tree Fractal By Smaranjit Ghose")  # Set Title
 turtle.left(90)
 
 
-def tree(d,angle):
+def tree_fractal(d,angle):
   '''
   The function to draw the Tree Fractal
   '''
   if d > 5:
     turtle.forward(d)
     turtle.right(angle)
-    tree(d/math.sqrt(2),angle)
+    tree_fractal(d/math.sqrt(2),angle)
     turtle.left(2*angle)
-    tree(d/math.sqrt(2),angle)
+    tree_fractal(d/math.sqrt(2),angle)
     turtle.right(angle)
     turtle.backward(d)
 
 
-tree(100,20)
+tree_fractal(100,20)
