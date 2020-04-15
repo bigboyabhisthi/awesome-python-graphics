@@ -19,7 +19,7 @@ Well, Python🐍 has your back for this with some neat spells. (However, later o
 |[Dragon Curve](https://en.wikipedia.org/wiki/Dragon_curve)|![Snapshot](https://github.com/smaranjitghose/awesome-python-graphics/blob/master/assets/snapshots/dragon_curve.png)|
 |Tree Fractal|![Snapshot](https://github.com/smaranjitghose/awesome-python-graphics/blob/master/assets/snapshots/tree_fractal.png)|
 |[Logarithmic Spiral](https://en.wikipedia.org/wiki/Logarithmic_spiral)|![Snapshot](https://github.com/smaranjitghose/awesome-python-graphics/blob/master/assets/snapshots/logarithmic_spiral.png)|
-
+|[Cantor Set](https://en.wikipedia.org/wiki/Cantor_set)|![Snapshot](https://github.com/smaranjitghose/awesome-python-graphics/blob/master/assets/snapshots/cantor_set.png)|
 
 # Want it for yourself? Here you go
 

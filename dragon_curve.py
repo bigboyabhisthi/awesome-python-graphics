@@ -3,7 +3,7 @@ turtle.speed(10)  # Set speed of drawing
 turtle.hideturtle()  # Disable default turtle object
 s = turtle.Screen()  # Create a graphic window
 s.bgcolor("black")  # Set background color
-turtle.pencolor("red")  # Set drawing color
+turtle.pencolor("red")  # Set drawing pen color
 s.title("Dragon Curve By Smaranjit Ghose")  # Set Title
 
 
