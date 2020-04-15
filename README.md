@@ -41,7 +41,7 @@ Well, Python🐍 has your back for this with some neat spells. (However, later o
 
 ![yay](https://media.giphy.com/media/OfkGZ5H2H3f8Y/giphy.gif)
 
-# Futher upcoming work: 🏗
+# Futher work: 🏗
 
 ![Coming soon](https://media.giphy.com/media/kyLptBNdyMHftuqoNy/giphy.gif)
 
